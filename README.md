@@ -4,7 +4,7 @@ Used internally for [searchlibs.com](http://searchlibs.com)
 
 ## Usage
 
-```
+```js
 import 'minizone'
 
 const z = Zone.current.fork({
